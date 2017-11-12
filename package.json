@@ -1,0 +1,15 @@
+{
+  "name": "BAmazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sharareh Shafieikermani",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
