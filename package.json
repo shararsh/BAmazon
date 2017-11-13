@@ -10,6 +10,7 @@
   "author": "Sharareh Shafieikermani",
   "license": "ISC",
   "dependencies": {
-    "mysql": "^2.15.0"
+    "mysql": "^2.15.0",
+    "inquirer": "^4.0.0"
   }
 }
